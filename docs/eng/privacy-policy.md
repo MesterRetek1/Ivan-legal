@@ -29,7 +29,7 @@ The collected data is used solely for:
 We do not sell, share, or distribute user data to third parties.
 
 5. Data Retention and Deletion
-User data is stored as long as the bot is active. If you wish to delete your data, you can request removal by contacting [Support Contact or Email].
+User data is stored as long as the bot is active. If you wish to delete your data, you can request removal by contacting "faszrak" via Discord.
 
 6. Security
 We implement reasonable security measures to protect user data. However, we cannot guarantee absolute security.
